@@ -1,0 +1,28 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+Z:\proj\DLL\Enemy.cpp(17,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Game.cpp
+  Menu.cpp
+  Player.cpp
+  SettingsMenu.cpp
+  Generowanie kodu...
+     Trwa tworzenie biblioteki Z:\proj\GRA\x64\Debug\DLL.lib i obiektu Z:\proj\GRA\x64\Debug\DLL.exp
+  DLL.vcxproj -> Z:\proj\GRA\x64\Debug\DLL.dll
+  Z:\proj\DLL\API.h
+  Z:\proj\DLL\Bullet.h
+  Z:\proj\DLL\Enemy.h
+  Z:\proj\DLL\Game.h
+  Z:\proj\DLL\Menu.h
+  Z:\proj\DLL\Player.h
+  Z:\proj\DLL\SettingsMenu.h
+          7 file(s) copied.
+  Z:\proj\GRA\x64\Debug\DLL.dll
+  Z:\proj\GRA\x64\Debug\openal32.dll
+  Z:\proj\GRA\x64\Debug\sfml-audio-d-2.dll
+  Z:\proj\GRA\x64\Debug\sfml-graphics-d-2.dll
+  Z:\proj\GRA\x64\Debug\sfml-network-d-2.dll
+  Z:\proj\GRA\x64\Debug\sfml-system-d-2.dll
+  Z:\proj\GRA\x64\Debug\sfml-window-d-2.dll
+          7 file(s) copied.
+  Z:\proj\GRA\x64\Debug\DLL.lib
+          1 file(s) copied.
